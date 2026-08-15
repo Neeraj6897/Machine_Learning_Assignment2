@@ -1,4 +1,4 @@
-# Machine Learning Assignment 2 - Bank Marketing Classification
+# Machine Learning Assignment 2: Bank Marketing Classification
 
 ## a. Problem Statement
 
