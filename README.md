@@ -70,4 +70,4 @@ GitHub Repository Link: *[https://github.com/Neeraj6897/Machine_Learning_Assignm
 
 ## Live Streamlit App Link
 
-Streamlit App Link:
+Streamlit App Link: https://2025ad05063-machine-learning-assignment2.streamlit.app
